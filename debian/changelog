@@ -1,0 +1,5 @@
+xdg-desktop-portal-kde (0.0-0neon) xenial; urgency=medium
+
+  * Initial Package
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2017 17:12:49 +0100

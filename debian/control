@@ -10,7 +10,8 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5i18n-dev,
                libkf5notifications-dev,
                pkg-kde-tools (>= 0.15.18~),
-               qtbase5-dev
+               qtbase5-dev,
+               qtbase5-private-dev
 Standards-Version: 3.9.6
 Homepage: https://cgit.kde.org/xdg-desktop-portal-kde.git/
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/xdg-desktop-portal-kde.git

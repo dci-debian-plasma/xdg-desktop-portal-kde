@@ -8,6 +8,7 @@ Build-Depends: cmake (>= 2.8.12),
                extra-cmake-modules (>= 5.18.0~),
                libkf5coreaddons-dev,
                libkf5i18n-dev,
+               libkf5notifications-dev,
                pkg-kde-tools (>= 0.15.18~),
                qtbase5-dev
 Standards-Version: 3.9.6

@@ -1,8 +1,13 @@
-xdg-desktop-portal-kde (5.10.3-1~) UNRELEASED; urgency=medium
+xdg-desktop-portal-kde (5.10.4-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.10.3).
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.0.0.
+  * Update copyright information
+  * Add myself as a human maintainer
+  * New upstream release (5.10.4).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 11:54:00 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Aug 2017 13:31:16 +0200
 
 xdg-desktop-portal-kde (5.10.3-0neon) xenial; urgency=medium
 

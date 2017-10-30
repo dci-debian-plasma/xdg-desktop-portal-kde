@@ -1,23 +1,13 @@
-xdg-desktop-portal-kde (5.10.5-2) sid; urgency=medium
-
-  * New revision
-  * Release to sid
-
- -- Maximiliano Curia <maxy@debian.org>  Sun, 03 Sep 2017 09:55:53 +0200
-
 xdg-desktop-portal-kde (5.10.5-1) experimental; urgency=medium
 
-  * New upstream release (5.10.3).
   * Update build-deps and deps with the info from cmake
   * Bump Standards-Version to 4.0.0.
   * Update copyright information
   * Add myself as a human maintainer
-  * New upstream release (5.10.4).
-  * Update build-deps and deps with the info from cmake
   * New upstream release (5.10.5).
-  * Release to experimental
+  * Add missing copyright holders
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 28 Aug 2017 15:29:07 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 30 Oct 2017 11:44:18 +0100
 
 xdg-desktop-portal-kde (5.10.3-0neon) xenial; urgency=medium
 

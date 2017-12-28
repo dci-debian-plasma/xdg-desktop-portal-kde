@@ -1,4 +1,5 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
+%:
+	dh $@ --with kf5,pkgkde_symbolshelper --buildsystem kf5
